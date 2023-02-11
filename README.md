@@ -37,7 +37,7 @@ Je gaat een blauwdruk maken van een Car-class, zodat je hier verschillende Car-i
 * Een zwarte Volvo CX90 uit 2022 met een motorinhoud van 2.0;
 * Je hebt alle Car-instanties in de terminal gelogd en op alle instanties de beschrijving-methode aangeroepen.
 
-Om te valideren dat je klaar bent, kun je `testen` draaien. In `src/test/java` vind je een class met de naam `MainTest`. Links daarvan staat een groen pijltje die je kunt gebruiken om te compileren en te testen. Onderin het scherm komt het resultaat te staan. Zijn niet alle testen groen? Kijk dan goed naar de uitslag van de test om te zien wat er nog mist. Door aanpassingen te maken in de code, kun je ervoor zorgen dat de testen één voor één slagen!
+Om te valideren dat je klaar bent, kun je `testen` draaien. In `src/test/java` vind je een class met de naam `MainTest`. Links daarvan staat een groen pijltje die je kunt gebruiken om te compileren en te testen. Onderin het scherm komt het resultaat te staan. Zijn niet alle testen groen? Kijk dan goed naar de uitslag van de test om te zien wat er nog mist. Door aanpassingen te maken in de code, kun je ervoor zorgen dat de testen één voor één slagen! Let er op dat  de testen erg nauw luisteren, ook op hoofdletters en spaties.
 
 ### Stappenplan
 _Let op_ het is uitdagender om jouw eigen stappenplan te maken, maar als je niet zo goed weet waar je moet beginnen, kun je onderstaand stappenplan gebruiken:
